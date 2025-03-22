@@ -40,11 +40,11 @@ automated-feature-selection/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/automated-feature-selection.git
+git clone https://github.com/pokalerushikesh/automated-feature-selection.git
 cd automated-feature-selection
 ```
 
-2. (Optional) Create and activate a virtual environment
+2. Create and activate a virtual environment
 
 3. Install dependencies:
 ```bash
